@@ -1,4 +1,4 @@
-## 6x6 size matrix multiplier acceleration ip
+## 6x6 size matrix multiplier acceleration ip (High Level Synthesize)
 
  - Axi4 Lite Interface
  - IEEE-754 Single Precision Floating Point
