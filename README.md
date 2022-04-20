@@ -1,5 +1,7 @@
 ## 6x6 size matrix multiplier acceleration ip
 
+ - Axi4 Lite Interface
+ - Calculation done interrupt
  - Hardware written in C++
  - Synthesized by Vitis HLS
  - Block design was done by communicating with MicroBlaze soft processor
