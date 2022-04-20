@@ -1,6 +1,7 @@
 ## 6x6 size matrix multiplier acceleration ip
 
  - Axi4 Lite Interface
+ - IEEE-754 Single Precision Floating Point
  - Calculation done interrupt
  - Hardware written in C++
  - Synthesized by Vitis HLS
